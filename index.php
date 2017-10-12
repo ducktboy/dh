@@ -1,3 +1,3 @@
 <?php
-  dh
+  echo 'dh.vn';
 ?>
